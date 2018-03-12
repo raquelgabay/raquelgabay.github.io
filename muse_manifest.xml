@@ -1,0 +1,305 @@
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="raquelgabay.me" resolutions="1x" timestamp="1520868316776">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="contact.css" crc="4139987641" ref="contact"/>
+    <file name="nomq_contact.css" crc="3913241952" ref="contact"/>
+    <file name="about.css" crc="90480917" ref="about"/>
+    <file name="nomq_about.css" crc="85832754" ref="about"/>
+    <file name="portfolio.css" crc="3956731945" ref="portfolio"/>
+    <file name="nomq_portfolio.css" crc="4034991030" ref="portfolio"/>
+    <file name="index.css" crc="4013349996" ref="index"/>
+    <file name="nomq_index.css" crc="4197258406" ref="index"/>
+    <file name="resume.css" crc="206387560" ref="resume"/>
+    <file name="nomq_resume.css" crc="14472206" ref="resume"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:contact:about:portfolio:resume"/>
+    <file name="museutils.js" crc="3803043152" ref="index:contact:about:portfolio:resume"/>
+    <file name="whatinput.js" crc="86476730" ref="index:contact:about:portfolio:resume"/>
+    <file name="museconfig.js" crc="380897831" ref="index:contact:about:portfolio:resume"/>
+    <file name="jquery.musemenu.js" crc="3784699396" ref="index:contact:about:portfolio:resume"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:contact:about:portfolio:resume"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:contact:about:portfolio:resume"/>
+    <file name="jquery.museresponsive.js" crc="3955820958" ref="index:contact:about:portfolio:resume"/>
+    <file name="require.js" crc="4157109226" ref="index:contact:about:portfolio:resume"/>
+    <file name="webpro.js" crc="242022427" ref="contact:portfolio"/>
+    <file name="form_check.php" crc="147359589" ref="contact"/>
+    <file name="form_throttle.php" crc="93986428" ref="contact"/>
+    <file name="form_process.php" crc="3851993751" ref="contact"/>
+    <file name="form-u1161.php" crc="94146597" ref="contact"/>
+    <file name="musewpslideshow.js" crc="457073769" ref="portfolio"/>
+    <file name="jquery.museoverlay.js" crc="483674903" ref="portfolio"/>
+    <file name="touchswipe.js" crc="4066113679" ref="portfolio"/>
+  </folder>
+  <folder name="images">
+    <file name="logo rakkkkkkk.png" crc="392737444" seo="true" ref="index:contact:about:portfolio">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="img_1862.jpg" crc="4226260544" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_1904.jpg" crc="200966700" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="jpj-web.jpg" crc="192468431" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="raq8079.jpg" crc="344108918" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="sarita.jpg" crc="516609468" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="if_instagram_1298747(1).png" crc="172742596" seo="true" ref="index:contact:about:portfolio:resume">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="resume" alt=""/>
+      <caption webpage="resume" alt=""/>
+      <caption webpage="resume" alt=""/>
+    </file>
+    <file name="if_facebook_834722-crop-u816.png" crc="4081494249" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="if_linkedin_386655.png" crc="4174315943" seo="true" ref="index:contact:about:portfolio:resume">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="resume" alt=""/>
+      <caption webpage="resume" alt=""/>
+      <caption webpage="resume" alt=""/>
+    </file>
+    <file name="if_facebook_834722-crop-u8162.png" crc="343454351" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="if_facebook_834722-crop-u8163.png" crc="232959928" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index:contact:about:portfolio:resume"/>
+    <file name="if_facebook_834722-crop-u1424.png" crc="4294441518" seo="true" ref="contact">
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="if_facebook_834722-crop-u14242.png" crc="399949452" seo="true" ref="contact">
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="if_facebook_834722-crop-u14243.png" crc="232959928" seo="true" ref="contact">
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="13076672_10209052352492157_4950035807535167146_n.jpg" crc="3966944192" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="if_facebook_834722-crop-u1463.png" crc="4294441518" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="13076672_10209052352492157_4950035807535167146_n255x170.jpg" crc="3990132521" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="if_facebook_834722-crop-u14632.png" crc="399949452" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="13076672_10209052352492157_4950035807535167146_n193x129.jpg" crc="4273945566" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="if_facebook_834722-crop-u14633.png" crc="232959928" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="eleven-stranger-things-zoom-4d73974b-94e8-4ee3-a163-0051de5cedab-crop-u2753.jpg" crc="4058265031" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="2014-01-03 172651.jpg" crc="136105594" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="2014-01-12 164402.jpg" crc="4069555699" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="2014-04-24 005615.jpg" crc="32428379" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="ese-crop-u2993.jpg" crc="3932165148" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="gif-web-crop-u3013.jpg" crc="3946205232" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="hd-wallpaper-landscape-9-crop-u3033.jpg" crc="4216411655" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="hd-wallpaper-landscape-17-crop-u3053.jpg" crc="454534566" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="img_1901-crop-u3073.jpg" crc="3866294248" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="img_19042.jpg" crc="4068897993" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="midterm-crop-u3113.jpg" crc="4130349452" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="tetrad rectangle-crop-u3133.jpg" crc="276710111" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="tetrad square 2-crop-u3153.jpg" crc="51552944" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="portfolio"/>
+    <file name="if_facebook_834722-crop-u2609.png" crc="4294441518" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="eleven-stranger-things-zoom-4d73974b-94e8-4ee3-a163-0051de5cedab-crop-u27532.jpg" crc="4269227852" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="2014-01-03 172651384x288.jpg" crc="3875103125" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="2014-01-12 164402384x288.jpg" crc="126558089" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="2014-04-24 005615384x288.jpg" crc="4257208131" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="ese-crop-u29932.jpg" crc="3763369122" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="gif-web-crop-u30132.jpg" crc="78681761" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="hd-wallpaper-landscape-9-crop-u30332.jpg" crc="176244527" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="hd-wallpaper-landscape-17-crop-u30532.jpg" crc="3849434354" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="img_1901-crop-u30732.jpg" crc="4014759342" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="img_1904384x216.jpg" crc="4153596045" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="midterm-crop-u31132.jpg" crc="4244915125" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="tetrad rectangle-crop-u31332.jpg" crc="4058825673" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="tetrad square 2-crop-u31532.jpg" crc="4159838003" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="if_facebook_834722-crop-u26092.png" crc="399949452" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="eleven-stranger-things-zoom-4d73974b-94e8-4ee3-a163-0051de5cedab-crop-u27533.jpg" crc="448095482" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="2014-01-03 172651-crop-u2933.jpg" crc="21081679" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="2014-01-12 164402-crop-u2953.jpg" crc="509329638" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="2014-04-24 005615-crop-u2973.jpg" crc="3829783263" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="ese-crop-u29933.jpg" crc="4093017187" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="gif-web-crop-u30133.jpg" crc="3966040872" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="hd-wallpaper-landscape-9-crop-u30333.jpg" crc="441324160" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="hd-wallpaper-landscape-17-crop-u30533.jpg" crc="303339931" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="img_1901-crop-u30733.jpg" crc="3914280741" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="midterm-crop-u31133.jpg" crc="4181330293" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="tetrad rectangle-crop-u31333.jpg" crc="241915815" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="tetrad square 2-crop-u31533.jpg" crc="4056014967" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="if_facebook_834722-crop-u26093.png" crc="4167539495" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="raquel gabay bentolila_page_1.jpg" crc="4099360792" seo="true" ref="resume">
+      <caption webpage="resume" alt=""/>
+      <caption webpage="resume" alt=""/>
+    </file>
+    <file name="raquel gabay bentolila_page_2.jpg" crc="481024442" seo="true" ref="resume">
+      <caption webpage="resume" alt=""/>
+      <caption webpage="resume" alt=""/>
+    </file>
+    <file name="raquel gabay bentolila_page_3.jpg" crc="4167547048" seo="true" ref="resume">
+      <caption webpage="resume" alt=""/>
+      <caption webpage="resume" alt=""/>
+    </file>
+    <file name="if_facebook_834722-crop-u3753.png" crc="3863966492" seo="true" ref="resume">
+      <caption webpage="resume" alt=""/>
+    </file>
+    <file name="if_facebook_834722-crop-u37532.png" crc="399949452" seo="true" ref="resume">
+      <caption webpage="resume" alt=""/>
+    </file>
+    <file name="raquel gabay bentolila_page_1168x218.jpg" crc="381183690" seo="true" ref="resume">
+      <caption webpage="resume" alt=""/>
+    </file>
+    <file name="raquel gabay bentolila_page_2170x220.jpg" crc="4037332565" seo="true" ref="resume">
+      <caption webpage="resume" alt=""/>
+    </file>
+    <file name="raquel gabay bentolila_page_3160x208.jpg" crc="232665646" seo="true" ref="resume">
+      <caption webpage="resume" alt=""/>
+    </file>
+    <file name="if_facebook_834722-crop-u37533.png" crc="4167539495" seo="true" ref="resume">
+      <caption webpage="resume" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="3985793220" seo="true" mt="1520866829068" redirect="true"/>
+  <file name="contact.html" crc="4125560908" seo="true" mt="1520866805263" redirect="true"/>
+  <file name="about.html" crc="3851674880" seo="true" mt="1520866821635" redirect="true"/>
+  <file name="portfolio.html" crc="4100230738" seo="true" mt="1520866838069" redirect="true"/>
+  <file name="resume.html" crc="3816814819" seo="true" mt="1520868056062" redirect="true"/>
+</manifest>
